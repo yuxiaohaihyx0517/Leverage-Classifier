@@ -1,2 +1,2 @@
 # Leverage-Classifier
-Code for a submited paper entitled as "Leverage classifier: another look at support vector machine"
+Code for a submitted paper entitled "Leverage classifier: another look at support vector machine"
