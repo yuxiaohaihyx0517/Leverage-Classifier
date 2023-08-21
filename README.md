@@ -1,2 +1,2 @@
 # Leverage-Classifier
-Code for a submitted paper entitled "Leverage classifier: another look at support vector machine", which provides an optiamal subsampling procedure for linear support vector mahine (SVM) in large-scale data setting.
+Code for Leverage classifier as published "Leverage classifier: another look at support vector machine" in Statistica Sinica, which provides an optimal subsampling procedure for linear support vector machine (SVM) in large-scale data setting. If you find this work interesting or helpful for your research, please consider citing this paper and give your star. 
